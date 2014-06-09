@@ -1,0 +1,8 @@
+Learning Forth
+John Eblen
+June 2014
+
+Small programs for learning about Forth with gforth
+
+Program 1: Playing with and finding solutions for the "leave one" peg puzzle
+files: lo-puzzle-board.fs lo-solver.fs
