@@ -1,5 +1,9 @@
 #! /opt/local/bin/gforth
 
+\ Copyright (c) 2014 John Eblen
+
+\ See the file license.txt for copying permission.
+
 s" /Users/john/forth/lo-puzzle-board.fs" included
 
 \ ================================================================================
